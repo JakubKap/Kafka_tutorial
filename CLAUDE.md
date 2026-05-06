@@ -21,6 +21,8 @@ Please follow these commit message formats:
   - Example: "documentation(kafka): add CLAUDE.MD with context about project"
 - feature(kafka): description of developed feature
   - Example: "feature(kafka): add multiply operation"
+- refactor(kafka): description of refactor
+  - Example: "refactor(kafka): use better file name for CLAUDE.MD"
 
 ## Current Status
 Repository is initialized and connected to GitHub. Ready for development of Kafka tutorial components.
